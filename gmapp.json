@@ -1,5 +1,5 @@
 {
-  "name":"Hello World",
+  "name":"NGI GM APLLICATION",
   "id":"98123628",
   "template": "Blank",
   "version": "0.0.0",
@@ -7,7 +7,7 @@
   "dist": "dist",
   "main": "index.html",
   "icon": "Icon.png",
-  "developer": "Developer",
+  "developer": "SALMA LARGO & YOUNES MOUKAFIH",
   "category": "General",
   "type": "RemoteHigh",
   "description": "Generated on 1/30/2018, 3:39:45 PM by ngi-sdk version "
