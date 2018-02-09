@@ -5,7 +5,7 @@ This application is developed  using NGI General Motors Developers so as to give
 -other serveces to predict,using machine learning algorithms, fuel & battery energy consumption
 -And also to detect if the driver is alert or not. T
 
-his project is realized by SALMA LARGO & YOUNES MOUKAFIH and supervised by Pr.Ismail Berrada
+This project is realized by SALMA LARGO & YOUNES MOUKAFIH and supervised by Pr.Ismail Berrada
 
 ********************************************************************************************
 Sidi Mohamed Ben Abdellah University
