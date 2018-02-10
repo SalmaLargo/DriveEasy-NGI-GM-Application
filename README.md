@@ -1,6 +1,6 @@
 # DriveEasy-NGI-GM-Application
 
-This application is developed  using NGI General Motors Developers so as to give drivers diffrent services :
+This application was developed  using NGI General Motors Developers so as to give drivers diffrent services :
 
 - Navigation using Google MAPs API
 - Checking the car state
