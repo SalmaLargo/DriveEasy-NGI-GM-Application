@@ -1,5 +1,6 @@
 # NGI-General-Motors-application
-This application is developed  using NGI General Motors Developers so as to give drivers diffrent services 
+This application is developed  using NGI General Motors Developers so as to give drivers diffrent services :
+
 -Navigation using Google MAPs API
 -Checking the car state
 -Other services to predict,using machine learning algorithms, fuel & battery energy consumption
