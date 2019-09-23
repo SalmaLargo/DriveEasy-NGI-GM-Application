@@ -46,10 +46,8 @@ You can find our app demonstration on youtube :
 https://www.youtube.com/watch?v=MC3ww8U676k&list=PLYfkFPIg-HdTUDIkmbqhQIlu3-2K-w97t
 
 ## About us 
- This project was developed by SALMA LARGO & MOUKAFIH YOUNES and supervised by Pr.ISMAIL BERRADA
-- SIDI MOHAMED BEN ABDELLAH UNIVERSITY 
-- FACULTY OF SCIENCES FEZ 
-- MASTER BIG DATA ANALYTICS & SMART SYSTEMS 
+ This project was developed by SALMA LARGO & MOUKAFIH YOUNES 
+
 
 ## Contact us
 
